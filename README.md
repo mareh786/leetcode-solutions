@@ -68,8 +68,8 @@ Each solution includes:
 |------------|:------:|
 | 🟢 Easy    | 19 |
 | 🟡 Medium  | 9 |
-| 🔴 Hard    | 2 |
-| **Total** | **30** |
+| 🔴 Hard    | 3 |
+| **Total** | **31** |
 
 > This table will be updated as I continue solving problems.
 

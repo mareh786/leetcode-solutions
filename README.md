@@ -101,9 +101,7 @@ This repository documents my journey of solving LeetCode problems using Python. 
 
 ---
 
-## 🤝 Contributions
 
-This repository is primarily for my learning journey. Suggestions, improvements, and discussions are always welcome.
 
 ---
 

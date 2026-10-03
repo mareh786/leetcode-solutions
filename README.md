@@ -67,9 +67,9 @@ Each solution includes:
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    | 27 |
-| 🟡 Medium  | 14 |
+| 🟡 Medium  | 15 |
 | 🔴 Hard    | 5 |
-| **Total** | **46** |
+| **Total** | **47** |
 
 > This table will be updated as I continue solving problems.
 

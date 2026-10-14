@@ -69,7 +69,7 @@ Each solution includes:
 | 🟢 Easy    | 34 |
 | 🟡 Medium  | 19 |
 | 🔴 Hard    | 5 |
-| **Total** | **55** |
+| **Total** | **56** |
 
 > This table will be updated as I continue solving problems.
 

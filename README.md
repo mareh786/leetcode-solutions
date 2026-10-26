@@ -12,7 +12,7 @@ This repository contains my solutions to LeetCode problems solved using **Python
 - Learn multiple approaches to the same problem.
 - Write clean, readable, and well-documented code.
 - Understand time and space cplexity.
-- Build a strong DSA foundation for software engineering interviews.
+- Build a strong DSA foundation for software engineering inter.
 
 ---
 

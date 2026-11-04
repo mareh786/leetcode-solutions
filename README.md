@@ -66,10 +66,10 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    | 43 |
+| 🟢 Easy    | 44 |
 | 🟡 Medium  | 22 |
 | 🔴 Hard    | 5 |
-| **Total** | **70** |
+| **Total** | **71** |
 
 > This table will be updated as I continue solving problems.
 

@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions
+3# 🚀 LeetCode Solutions
 
 Welcome to my **LeetCode Solutions** repository!
 
@@ -67,9 +67,9 @@ Each solution includes:
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    | 47 |
-| 🟡 Medium  | 24 |
+| 🟡 Medium  | 25 |
 | 🔴 Hard    | 5 |
-| **Total** | **76** |
+| **Total** | **77** |
 
 > This table will be updated as I continue solving problems.
 
